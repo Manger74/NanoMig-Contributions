@@ -8,6 +8,7 @@
 - Swap Joysticks ✔️  
 - Volume Setting ✔️  
 - Stereo Mix ✔️  
-- Kick Switch Lite ✔️    
+- Kick Switch Lite ✔️
+- Drive Sounds ✔️ (experimental)
 - Config Loader  
 - AT Modem  
