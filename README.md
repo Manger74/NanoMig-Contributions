@@ -9,8 +9,9 @@
 - Volume Setting ✔️  
 - Stereo Mix ✔️  
 - Kick Switch Lite ✔️
+- AT Modem ✔️
+- Drive Sounds ✔️
 - Competition Pro V3 recoginition ✔️
 - Competition Pro V3 button mapping
-- Drive Sounds (experimental, not ready yet)
 - Config Loader  
-- AT Modem
+
