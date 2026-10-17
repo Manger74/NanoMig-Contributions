@@ -13,5 +13,5 @@
 - Drive Sounds ✔️
 - Competition Pro V3 recoginition ✔️
 - Competition Pro V3 button mapping
-- Config Loader  
+- Config Selector
 
