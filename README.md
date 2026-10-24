@@ -11,7 +11,9 @@
 - Kick Switch Lite ✔️
 - AT Modem ✔️
 - Drive Sounds ✔️
+- Config Selector ✔️
+
 - Competition Pro V3 recoginition ✔️
 - Competition Pro V3 button mapping
-- Config Selector
+- PPP Tunnel (Roadshow <> Companion)
 
