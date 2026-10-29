@@ -12,8 +12,9 @@
 - AT Modem ✔️
 - Drive Sounds ✔️
 - Config Selector ✔️
+- PPP Tunnel (Roadshow <> Companion) ✔️
 
 - Competition Pro V3 recoginition ✔️
 - Competition Pro V3 button mapping
-- PPP Tunnel (Roadshow <> Companion)
+
 
