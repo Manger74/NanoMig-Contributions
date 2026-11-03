@@ -15,7 +15,7 @@
 - PPP Tunnel (Roadshow <> Companion) ✔️
 - PLIP Internet Connection ✔️
 - Minimal Drive Sounds / HQ Drive Sounds ✔️
-- DblPAL & DblNTSC 720 x 550 (454)
+- DblPAL & DblNTSC 720 x 550 (454) ✔️
 
 - Competition Pro V3 recoginition ✔️
 - Competition Pro V3 button mapping
