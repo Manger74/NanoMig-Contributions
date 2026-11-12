@@ -9,11 +9,12 @@
 - Volume Setting ✔️  
 - Stereo Mix ✔️  
 - Kick Switch Lite ✔️
-- AT Modem ✔️
-- Drive Sounds ✔️
+- AT Modem Bridge ✔️
+- Drive Sounds for HDD & Floppy ✔️
 - Config Selector ✔️
 - PPP Tunnel (Roadshow <> Companion) ✔️
-- PLIP Internet Connection ✔️
+- PLIP Network Connection ✔️
+- A314 Networking ✔️
 - Minimal Drive Sounds / HQ Drive Sounds ✔️
 - DblPAL & DblNTSC 720 x 550 (454) ✔️
 
