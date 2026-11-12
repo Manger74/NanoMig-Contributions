@@ -1,8 +1,7 @@
 # NanoMig-Contributions  
 
-[NanoMig](https://github.com/MiSTle-Dev/NanoMig)
 
-**Ideas &amp; features** for the **NanoMig**  
+**Ideas &amp; features** for the **[NanoMig](https://github.com/MiSTle-Dev/NanoMig)**  
 
 - 2nd DB9 port ✔️  
 - Swap Joysticks ✔️  
