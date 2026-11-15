@@ -10,14 +10,18 @@
 - Stereo Mix ✔️  
 - Kick Switch Lite ✔️
 - Drive Sounds for HDD & Floppy ✔️
-- Config Selector ✔️
+- Config Selector ✔️ 
+- Core Selector   
+   
   
 - AT Modem Bridge ✔️
 - PPP Serial Connection (Roadshow <> Companion) ✔️
 - PLIP Network Connection ✔️
-- A314 Networking ✔️
-    
-- Minimal Drive Sounds / HQ Drive Sounds ✔️
+- A314 Networking ✔️  
+
+        
+- Minimal Drive Sounds / HQ Drive Sounds ✔️  
+- RTG Graphics 1024 x 768, 800 x 600, 768 x 576
 - DblPAL & DblNTSC flickerfree screen resolutions 720 x 550 (454) ✔️
 
 - Competition Pro V3 recoginition ✔️
