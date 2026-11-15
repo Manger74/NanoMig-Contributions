@@ -21,7 +21,7 @@
 
         
 - Minimal Drive Sounds / HQ Drive Sounds ✔️  
-- RTG Graphics 1024 x 768, 800 x 600, 768 x 576
+- RTG Graphics 1024x768, 800x600, 768 576 ✔️  
 - DblPAL & DblNTSC flickerfree screen resolutions 720 x 550 (454) ✔️
 
 - Competition Pro V3 recoginition ✔️
